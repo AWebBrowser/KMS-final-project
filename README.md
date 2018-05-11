@@ -24,7 +24,7 @@ Your project will begin with a wireframe.  Once the wireframe is completed, you 
 
 ### Create your files and link them together!
 
-- An HTML, CSS, and Javascript file are all required on this final project.
+- A HTML, CSS, and Javascript file are all required on this final project.
 - Remember to link all of your files together using a <link> tag and a <script> tag
 - Be sure to console.log a sanity check, this will be important, don't delete it! Comment out the console.log when you have confirmed it's connected.
   
@@ -34,7 +34,7 @@ Your project will begin with a wireframe.  Once the wireframe is completed, you 
 
 - At least 5 different images on the website
 - Lots of header tags (h1 - h6)
-- ID's and Classes for all tags
+- IDs and Classes for all tags
 - Include at least one video using iframe
 - Put in at least two buttons
 - An Unordered List AND an Ordered List

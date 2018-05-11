@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>KMS Final Project</title>
+	<link rel="stylesheet" href="styles.css">
+	<link rel="icon" href="assets/icon.png">
+</head>
+<body>
+	<div class="dropdown">
+  		<button onclick="openDropdown()" class="dropbtn">Past Projects</button>
+  		<div id="dropdown-1" class="dropdown-content">
+    		<a href="../open-cookie/">An open-source cookie clicker.</a>
+  		</div>
+  		<button  onclick="openDropdownTwo();"class="dropbtn">Future</button>
+  		<div id="dropdown-2" class="dropdown-content">
+    		<a href="#">Tetris Clone</a>
+    		<a href="#"></a>
+    		<a href="#"></a>
+  		</div>
+	</div>
+	<h1 id="title" ondblclick="alert('You Found Me!')">2017-2018 KMS Code Warriors Recap</h1>
+	<img src="assets/icon.png" alt="Junior Dev League Logo">
+	<div class="slidecontainer">
+  		<input type="range" min="0" max="100" value="0" class="slide" id="slider">
+		<h6>Value:<span id="demoOne">0</span>%</h6>
+	</div>
+	<ol>
+		<li>*This is a slider, it will tell you what % you are at.*</li>
+	</ol>
+	<button id="buttonOne" value="0">Click Me</button>
+	<ul>
+		<li>This is an unordered list.</li>
+	</ul>
+	<ol>
+		<li>This is an ordered list.</li>
+	</ol>
+	<button id="buttonTwo" onclick="playVideo()">Click me to play this video from YouTube!</button><br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/P1MkKXbEGnQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen='0' id="one"></iframe>
+	<script src="app.js"></script>
+</body>
+</html>
