@@ -34,7 +34,7 @@ Your project will begin with a wireframe.  Once the wireframe is completed, you 
 
 - At least 5 different images on the website
 - Lots of header tags (h1 - h6)
-- IDs and Classes for all tags
+- IDs and Classes for *necessary* tags
 - Include at least one video using iframe
 - Put in at least two buttons
 - An Unordered List AND an Ordered List

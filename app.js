@@ -1,3 +1,4 @@
+//console.log('Hi');
 //Slider
 var sliders = document.getElementById("slider");
 var output = document.getElementById("demoOne");

@@ -69,3 +69,8 @@ body{
     text-align: center;
     font-family: 'Coming Soon';
 }
+/*Sizing images*/
+.hobby{
+    width:30%;
+    height:30%;
+}
